@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Новости",CNN International
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Новости",BBC World News
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",English Club TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/bw5000000/variant.m3u8
+#EXTINF:-1 group-title="Новости",Bloomberg HD
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+EXTINF:-1 group-title="Познавательные",Fashion TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FASHION/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",World Fashion Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/bw5000000/variant.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Dance
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVDANCE/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/bw5000000/variant.m3u8
