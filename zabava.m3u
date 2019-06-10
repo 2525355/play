@@ -1,0 +1,1804 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="HD",НТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Первый канал HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Россия 1 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Известия HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",France 24 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRANCE24HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",360° HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Animal Planet HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Discovery Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Discovery Science HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",DTX HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Galaxy TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",H2 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",History HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",ID Investigation Discovery HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Museum HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",myZen.tv HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Nano HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NANOHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Nat Geo Wild HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",National Geographic HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",RTG HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",RTД HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",TLC HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Travel Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Travel+ Adventure HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Viasat Explore HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Viasat History HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Viasat Nature/History HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Большая Азия HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Морской HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Планета HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Победа HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Твой Дом HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Eurosport 1 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Eurosport Gold HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",UFC HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD/bw5000000/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Fuel TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUELHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Viasat Sport HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",КХЛ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Матч! Арена HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Матч! Игра HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Матч! Премьер HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Матч! ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Матч! Футбол 1 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Матч! Футбол 2 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Матч! Футбол 3 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Моторспорт ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MOTORSPORTTVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Футбол HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Spike HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Ultra HD cinema (4k)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_HOME4K/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",РЕН ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Театр HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",ТНТ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Cartoon Network HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Nickelodeon HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Тлум HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",1 HD Music Television
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Bridge TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Clubbing TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Mezzo Live HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",MTV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",MTV Live HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Music Box RU HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",RU TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Stingray iConcerts HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ICONCERTSHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Жара HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",О2ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",A1 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Amedia Hit HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Amedia Premium HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Bolt HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",FAN HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",FOX HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",FOX Life HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Paramount Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Paramount Comedy HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Sony Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Star Cinema HD (Россия)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Star Family HD (Россия)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",TV 1000 Action HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",TV 1000 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",TV 1000 Русское кино HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",ViP Comedy HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",ViP Megahit HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",ViP Premiere HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",VIP Serial HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Всё ТВ HD
+http://s37630.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Дом кино премиум HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Кино ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Кинопремьера HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Киносвидание HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Киносемья HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Кинохит HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Русский роман HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Страшное HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Bollywood HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",АВТО24 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Диалоги о рыбалке HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Дикая охота HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Дикая рыбалка HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Охотник и рыболов HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTNIKIRYBOLOVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Shant music HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTMUSICHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Shant premium HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTPREMIUMHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Shant news HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTNEWSHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Shant serial HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTSERIALHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Food Network HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",World Fashion Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",C1 HD (Сургут)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Инфо 24 HD
+http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Ноябрьск 24 HD
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Осетия Ирыстон HD
+http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",ОТВ HD (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="HD",Russia Today HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8?version=2&hd
+
+#EXTINF:-1 group-title="Россия",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Красная линия
+http://zabava-htlive.cdn.ngenix.net/hls/CH_REDLINE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Мир Premium
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",НТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Первый канал HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Россия 1 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Россия",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",360° Новости
+http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",BBC World News
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",CNN International
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",Deutsche Welle
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",France
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRANCE24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",Вместе-РФ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",Евроновости
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",Известия HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",Мир 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",РБК
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",France 24 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRANCE24HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Новостные",ЛДПР ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",360°
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",360° HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ANIMALPLANET/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Da Vinci Learning
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYCHANNEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYSCIENCE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",DTX
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",DTX HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",English Club TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Galaxy TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",H2 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",History
+http://zabava-htlive.cdn.ngenix.net/hls/CH_HISTORY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",History HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",ID Investigation Discovery
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",ID Investigation Discovery HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Museum HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",myZen.tv HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Nano HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NANOHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NATGEO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",National Geographic [FHD]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",NHK World
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",RTG HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",RTД HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Russia Today
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",TLC
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TLC/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Travel Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Travel+ Adventure HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Viasat Explore
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLORER/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Viasat Explore HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Viasat History HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATUREHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Viasat Nature/History HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Zooпарк
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Бобёр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Большая Азия HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Доктор
+http://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Живая планета
+http://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZDOROVOETV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",История
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Морской
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NAUTICALCHANNEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Морской HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Моя планета
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Наука
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Первый образовательный
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Пёс и Ко
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PESIKO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Планета HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Победа
+http://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Победа HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Просвещение
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Твой Дом HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Тномер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNOMER/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Познавательные",Усадьба
+http://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Eurosport Gold
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_G/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Eurosport Gold HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Extreme Sports
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",UFC HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD/bw5000000/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Fuel TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUELHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",M-1 Global
+http://zabava-htlive.cdn.ngenix.net/hls/CH_M1GLOBAL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Viasat Sport
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATSPORT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",КХЛ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KHL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Матч! Арена HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Матч! Игра HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Матч! Наш спорт
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Матч! ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Моторспорт ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MOTORSPORTTVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Точка отрыва
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TOCHKAOTRYVA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Футбол
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Спорт",Футбол HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",4k
+http://zabava-htlive.cdn.ngenix.net/hls/CH_INSIGHTUHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",E TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_E/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Spike HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Ultra HD cinema (4k)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_HOME4K/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Восток ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VOSTOKTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Жар Птица
+http://zabava-htlive.cdn.ngenix.net/hls/CH_JARPTIZA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Живи!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_JIVI/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Калейдоскоп ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KALEJDOSKOPTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KVN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",РЕН ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Тайна
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",ТВ 3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Театр HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Точка ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TOCHKATV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Эхо TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Ani
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Baby TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Boomerang
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Cartoon Network HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Disney Channel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GULLI/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",JimJam
+http://zabava-htlive.cdn.ngenix.net/hls/CH_JIMJAM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Nick Jr.
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NICKJUNIOR/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Tiji
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",В Гостях у сказки
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Детский
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Детский мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Мама
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",МУЛЬТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",О!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Радость моя
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Рыжий
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GINGER/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",СТС Kids
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Детские",Тлум HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Bridge TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",1 HD Music Television
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Bridge TV Classic
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Bridge TV Dance
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Bridge TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Clubbing TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",MCM Top
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Mezzo
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MEZZO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Mezzo Live HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",MTV Dance
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVDANCE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",MTV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",MTV Hits
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHITS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",MTV Live HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",MTV Rocks
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVROCKS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",MTV Russia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Music Box Gold
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Music Box RU
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXRU/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Music Box RU HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",RU TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",RU TV HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Stingray iConcerts HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ICONCERTSHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",VH1 Classic
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1CLASSIC/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",VH1 European
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Жара HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Ля минор
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Мультимузыка
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STRANA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",О2ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",ТНТ MUSIC
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",A1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",A1 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",A2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Amedia Hit
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITSD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Amedia Hit HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Amedia Premium
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAPREMIUMSD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Amedia Premium HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Bolt HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Eurochannel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROCHANNEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",FAN HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",FOX
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FOX/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",FOX HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",FOX Life
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FOXLIFE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",FOX Life HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Paramount Channel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PARAMOUNTCHANNEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Paramount Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Paramount Comedy
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PARAMOUNTCOMEDY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Paramount Comedy HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Shot TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Sony Channel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SET/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Sony Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Sony Turbo
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Star Cinema HD (Россия)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Star Family HD (Россия)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",TV 1000
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",TV 1000 Action
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTION/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",TV 1000 Action HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",TV 1000 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",TV 1000 Русское кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",TV 1000 Русское кино HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",TV XXI
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",ViP Comedy HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",ViP Megahit HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",VIP Serial HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Всё ТВ HD
+http://s37630.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Дом кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Дом кино премиум HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Еврокино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROKINO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Иллюзион+
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Кино ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Кино ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Кинокомедия
+http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Киномикс
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Кинопремьера HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Киносвидание HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Киносемья HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Кинохит HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Комедия
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Мужское кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Мир сериала
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Настоящее страшное ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Наше любимое кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Наше Новое Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Ностальгия
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",О!КИНО
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Ретро ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Родное кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Русский бестселлер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Русский детектив
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Русский иллюзион
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Русский роман
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSINAROMAN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Русский роман HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Страшное HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Феникс+ кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Bollywood HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Фильмы",Zee TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Авто плюс
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",АВТО24 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Диалоги о рыбалке HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Дикая охота HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Дикая рыбалка HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Дикий
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKIY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Драйв
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Мужской
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Оружие
+http://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Охота и рыбалка
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Охотник и рыболов HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTNIKIRYBOLOVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Русский экстрим
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мужские",Техно 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Shant",Shant music HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTMUSICHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Shant",Shant premium HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTPREMIUMHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Shant",Shant news HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTNEWSHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Shant",Shant serial HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTSERIALHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Кухня",Food Network
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOOD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Кухня",Food Network HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Кухня",Еда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Кухня",Еда Премиум
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Кухня",Кухня ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мода",World Fashion Channel HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Мода",Fashion TV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FASHION/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",12 канал (Омск)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",26 регион (Ставрополь)
+http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_26-REGION/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",2x2 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",2x2 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",31ТВ (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",5TV (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",8 канал (Владивосток)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",C1 HD (Сургут)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Disney Channel (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Disney Channel (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",TV Губерния (Воронеж)
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",UGRA Travel (Сургут)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",UTV (Пермь)
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URALIFORM_PERM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ZAB.TV (Чита)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Аист (Иркутск)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Альтес (Чита)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ALTES/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ариг Ус 24 (Улан-Удэ)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_ARIGUS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ариранг
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Архыз 24 (Черкесск)
+http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Астрахань 24
+http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",АТВ (Ставрополь)
+http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",АТВ (Улан-Удэ)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Афонтово (Красноярск)
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Барс (Иваново)
+http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Белгород 24
+http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",БСТ (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Вариант V (Владимир)
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Волга (Н. Новгород)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Восток 24 (Владивосток)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Вот ТВ (Липетск)
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ГИС (Самара)
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_SAMARAGIS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Городской (Брянск)
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_GORODSKOY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ГТ-Ярославль
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Губерния (Брянск)
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Губерния (Самара)
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_GUBERNIA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Губерния (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTGUBERNYA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Девятка ТВ (Киров)
+http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KIROV_9TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Дзержинск
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Доверие (Москва)
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Домашний (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Домашний (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Домашний (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Домашний (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R04_OTT_DV_MGDN_DOMASHNY_MGDN_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Домашний (VLD)
+http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_DOMASHNY_VLAD_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Дон 24 (Ростов-на-Дону)
+http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Енисей (Красноярск)
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Звезда (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R03_OTT_DV_MGDN_ZVEZD_MGDN_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Инфо 24 HD
+http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Карусель (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Карусель (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Каскад (Калининград)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Катунь 24
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Крит-ТВ (Пермь)
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_KRITTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",КТВ-Город (Воронеж)
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Кубань 24 (Краснодар)
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",КУРГАН.РУ
+http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",М1 (Самара)
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Майдан (Казань)
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",МиГ ТВ (Екатеринбург)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Мир (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Мир белгородья
+http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Москва 24
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Мужской (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY_6/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Муз ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Муз ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Муз ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Национальное телевидение Чувашии
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Наш дом (Пенза)
+http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_PENZA_NASHDOM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Наши Города (Сургут)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",НВК Саха
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ника (Калуга)
+http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ННТВ (Нижний Новгород)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_NN_NNTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ноябрьск 24 HD
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",НСК 49 (Новосибирск)
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",НТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",НТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",НТВ (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_NTV_MGD_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",НТВ (Мурманск)
+http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Объектив 59 (Пермь)
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Осетия Ирыстон HD
+http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ОТВ (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTTOTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ОТВ (+7) (Владивосток)
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTTOTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ОТВ (Екатеринбург)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ОТВ (Сахалин)
+http://s14553.cdn.ngenix.net/hls/CH_R01_OTT_DV_SLIN_OTV_SLIN_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ОТВ HD (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ОТС (Новосибирск)
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый городской (Киров)
+http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый городской (Нижний Новгород)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_PERVYGORODSKOY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый городской (Омск)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (+1) (Саратов)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (+6)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (+7)
+http://s34351.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R04_OTT_DV_MGDN_ROSSIA1_MGDN_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый канал (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_KLGR_1TV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый областной (Орел)
+http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый тульский
+http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Первый ярославский
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Продвижение (Екатеринбург)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_EKBTV_URAL_EKT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Продвижение (Омск)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Продвижение Сэт (+7)
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTTS3TTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Пятница! (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Пятница! (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Пятница! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Пятый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Пятый канал (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Пятый канал (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R02_OTT_DV_MGDN_5TV_MGDN_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РЕН ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РЕН ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Рен ТВ (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_RENTV_MGD_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РЕН ТВ (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R01_OTT_DV_HVSK_RENTV_HBR_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РИМ (Екатеринбург)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РИФЕЙ-ТВ (Пермь)
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РОССИЯ 1 (+1) (Саратов)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 1 (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R01_OTT_DV_HVSK_ROSSIA1_HBR_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РОССИЯ 24 (Магадан)
+http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_ROSSIA24_MGDN_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия 24 (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R01_OTT_DV_HVSK_ROSSIA24_HBR_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия К (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия К (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия К (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РОССИЯ К (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R02_OTT_DV_MGDN_RUSSK_MGDN_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Россия К (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_ROSSIAK_HABRSK_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ростов папа
+http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_ROSTOVPAPA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",РТС (Абакан)
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Саратов 24
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Своё ТВ (Ставрополь)
+http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Селенга ТВ (Улан-Удэ)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Скат 24 (Самара)
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SAMARA_SKAT24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",СТВ-Байкал (Улан-Удэ)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",СТС (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_STS_MGD_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",СТС (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R01_OTT_DV_HVSK_STS_HBR_OTT/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",СТС Love (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",СТС Love (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Супер (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Супер (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Супер (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",СЭТ ТВ (Хабаровск)
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTS3TTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Тагил-ТВ (Екатеринбург)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТВ 3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТВ 3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТВ Центр (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТВ Центр (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТВ Центр (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТВ 3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Тверской проспект
+http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТВ-ИН (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТВЦ (Мурманск)
+http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_MURM_TVC/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Тивиком (Улан-Удэ)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_TIVICOM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТК центр (Красноярск)
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТКР (Рязань)
+http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",TMTV
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТНВ-Планета
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ТНТ4 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Томское время
+http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Тюменское время
+http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Хамдан (Элиста)
+http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Центрально телевидение
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CENTRALTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Че (+2)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Че (+4)
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Че (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Эхо тв 24 (Екатеринбург)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ECHOTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ю (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ю (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Югра (Тюмень)
+http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_UGRA_URAL_TUM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ЮРГАН (Сыктывкар)
+http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",ЮТВ
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Якутия 24
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_SAHA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ямал-Регион
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Ямал-Регион (Тюмень)
+http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_TUM/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Dorama
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Наше ТВ (Беларусь)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHETV/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Беларусь 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BELARUS24/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",БелРос (ТРО)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TRO/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",Russia Today HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Регионы",TV5Monde
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDE/variant.m3u8?version=2
