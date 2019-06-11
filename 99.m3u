@@ -7,7 +7,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8?version=2
 #EXTINF:-1 group-title="Новости",Bloomberg HD
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-EXTINF:-1 group-title="Познавательные",Fashion TV
+#EXTINF:-1 group-title="Познавательные",Fashion TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FASHION/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные",World Fashion Channel HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8?version=2
