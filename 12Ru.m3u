@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Первый канал HD
+#EXTINF:-1,Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2&hd
-#EXTINF:-1,Россия 1 HD
+#EXTINF:-1,Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
-#EXTINF:-1,Матч! ТВ HD
+#EXTINF:-1,Матч! ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8?version=2
-#EXTINF:-1,НТВ HD
+#EXTINF:-1,НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8?version=2&hd
 #EXTINF:-1,Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
@@ -21,7 +21,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 #EXTINF:-1,СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ HD
+#EXTINF:-1,РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
@@ -31,9 +31,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
 #EXTINF:-1,Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1,ТНТ HD
+#EXTINF:-1,ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8?version=2&hd
-#EXTINF:-1,360° HD
+#EXTINF:-1,360°
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
@@ -41,7 +41,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
 #EXTINF:-1,Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
-#EXTINF:-1,Russia Today HD
+#EXTINF:-1,Russia Today
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8?version=2
 #EXTINF:-1,BBC World News
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
@@ -55,9 +55,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDE/variant.m3u8?version=2
 #EXTINF:-1,Deutsche Welle
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
-#EXTINF:-1,France 24 HD
+#EXTINF:-1,France 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRANCE24HD/variant.m3u8?version=2&hd
-#EXTINF:-1,Известия HD
+#EXTINF:-1,Известия
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8?version=2
 #EXTINF:-1,Евроновости
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
@@ -67,9 +67,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8?version=2
 #EXTINF:-1,Шансон ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8?version=2
-#EXTINF:-1,Жара HD
+#EXTINF:-1,Жара
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8?version=2&hd
-#EXTINF:-1,RU TV HD
+#EXTINF:-1,RU TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8?version=2
 #EXTINF:-1,VH1 Classic
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1CLASSIC/variant.m3u8?version=2
@@ -77,25 +77,25 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1CLASSIC/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
 #EXTINF:-1,Europa Plus TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
-#EXTINF:-1,Clubbing TV HD
+#EXTINF:-1,Clubbing TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/variant.m3u8?version=2&hd
 #EXTINF:-1,ТНТ MUSIC
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8?version=2
 #EXTINF:-1,Music Box Gold
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8?version=2
-#EXTINF:-1,Music Box RU HD
+#EXTINF:-1,Music Box RU
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2
 #EXTINF:-1,MCM Top
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/variant.m3u8?version=2
-#EXTINF:-1,Mezzo Live HD
+#EXTINF:-1,Mezzo Live
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2&hd
 #EXTINF:-1,MTV Dance
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVDANCE/variant.m3u8?version=2
-#EXTINF:-1,MTV HD
+#EXTINF:-1,MTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8?version=2
 #EXTINF:-1,MTV Hits
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHITS/variant.m3u8?version=2
-#EXTINF:-1,MTV Live HD
+#EXTINF:-1,MTV Live
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2&hd
 #EXTINF:-1,MTV Rocks
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVROCKS/variant.m3u8?version=2
@@ -107,13 +107,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8?version=2
 #EXTINF:-1,Bridge TV Dance
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8?version=2
-#EXTINF:-1,Bridge TV HD
+#EXTINF:-1,Bridge TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8?version=2
 #EXTINF:-1,Bridge TV Русский Хит
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8?version=2
-#EXTINF:-1,1 HD Music Television
+#EXTINF:-1,1 Music Television
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/variant.m3u8?version=2&hd
-#EXTINF:-1,Тлум HD
+#EXTINF:-1,Тлум
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8?version=2
 #EXTINF:-1,Радость моя
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8?version=2
@@ -121,11 +121,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/variant.m3u8?version=2
 #EXTINF:-1,Tiji
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/variant.m3u8?version=2
-#EXTINF:-1,Paramount Channel HD
+#EXTINF:-1,Paramount Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Nick Jr.
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NICKJUNIOR/variant.m3u8?version=2
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:-1,Nickelodeon
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
 #EXTINF:-1,JimJam
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JIMJAM/variant.m3u8?version=2
@@ -139,19 +139,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8?version=2
 #EXTINF:-1,Disney Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1,Cartoon Network
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8?version=2
 #EXTINF:-1,Baby TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/variant.m3u8?version=2
-#EXTINF:-1,FOX HD
+#EXTINF:-1,FOX
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2&hd
-#EXTINF:-1,FOX Life HD
+#EXTINF:-1,FOX Life
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Star Cinema HD (Россия)
+#EXTINF:-1,Star Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8?version=2
 #EXTINF:-1,Феникс+ кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
-#EXTINF:-1,Страшное HD
+#EXTINF:-1,Страшное
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
 #EXTINF:-1,О!КИНО
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
@@ -159,35 +159,35 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
 #EXTINF:-1,Наше любимое кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8?version=2
-#EXTINF:-1,Кино ТВ HD
+#EXTINF:-1,Кино ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2
 #EXTINF:-1,Кинокомедия
 http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2
 #EXTINF:-1,Киномикс
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
-#EXTINF:-1,Кинопремьера HD
+#EXTINF:-1,Кинопремьера
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Киносвидание HD
+#EXTINF:-1,Киносвидание
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Киносемья HD
+#EXTINF:-1,Киносемья
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Кинохит HD
+#EXTINF:-1,Кинохит
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Комедия
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
-#EXTINF:-1,Bollywood HD
+#EXTINF:-1,Bollywood
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
-#EXTINF:-1,Amedia Hit HD
+#EXTINF:-1,Amedia Hit
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Amedia Premium HD
+#EXTINF:-1,Amedia Premium
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2&hd
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1,Animal Planet
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2&hd
 #EXTINF:-1,A2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2
-#EXTINF:-1,A1 HD
+#EXTINF:-1,A1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
 #EXTINF:-1,Родное кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
@@ -197,145 +197,145 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8?versio
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
 #EXTINF:-1,Русский иллюзион
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
-#EXTINF:-1,Русский роман HD
+#EXTINF:-1,Русский роман
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Иллюзион+
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
 #EXTINF:-1,Дом кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8?version=2
-#EXTINF:-1,Дом кино премиум HD
+#EXTINF:-1,Дом кино премиум
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Еврокино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROKINO/variant.m3u8?version=2
-#EXTINF:-1,ViP Comedy HD
+#EXTINF:-1,ViP Comedy
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
-#EXTINF:-1,ViP Megahit HD
+#EXTINF:-1,ViP Megahit
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2&hd
-#EXTINF:-1,ViP Premiere HD
+#EXTINF:-1,ViP Premiere
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
-#EXTINF:-1,VIP Serial HD
+#EXTINF:-1,VIP Serial
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
-#EXTINF:-1,TV 1000 Action HD
+#EXTINF:-1,TV 1000 Action
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8?version=2&hd
-#EXTINF:-1,TV 1000 HD
+#EXTINF:-1,TV 1000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2
-#EXTINF:-1,TV 1000 Русское кино HD
+#EXTINF:-1,TV 1000 Русское кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2
 #EXTINF:-1,TV XXI
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8?version=2
-#EXTINF:-1,Viasat Sport HD
+#EXTINF:-1,Viasat Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Футбол HD
+#EXTINF:-1,Футбол
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Русский экстрим
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
-#EXTINF:-1,Матч! Арена HD
+#EXTINF:-1,Матч! Арена
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8?version=2&hd
-#EXTINF:-1,Матч! Игра HD
+#EXTINF:-1,Матч! Игра
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Матч! Наш спорт
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
-#EXTINF:-1,Матч! Премьер HD
+#EXTINF:-1,Матч! Премьер
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Матч! Футбол 1 HD
+#EXTINF:-1,Матч! Футбол 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8?version=2&hd
-#EXTINF:-1,Матч! Футбол 2 HD
+#EXTINF:-1,Матч! Футбол 2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8?version=2
-#EXTINF:-1,Матч! Футбол 3 HD
+#EXTINF:-1,Матч! Футбол 3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8?version=2
-#EXTINF:-1,КХЛ HD
+#EXTINF:-1,КХЛ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Eurosport 1 HD
+#EXTINF:-1,Eurosport 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
-#EXTINF:-1,Eurosport Gold HD
+#EXTINF:-1,Eurosport Gold
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Extreme Sports
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
-#EXTINF:-1,Bolt HD
+#EXTINF:-1,Bolt
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Boomerang
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8?version=2
 #EXTINF:-1,Da Vinci Learning
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1,Discovery Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Discovery Science HD
+#EXTINF:-1,Discovery Science
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
-#EXTINF:-1,Nat Geo Wild HD
+#EXTINF:-1,Nat Geo Wild
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Dorama
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8?version=2
-#EXTINF:-1,DTX HD
+#EXTINF:-1,DTX
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8?version=2
 #EXTINF:-1,E TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_E/variant.m3u8?version=2
 #EXTINF:-1,Eurochannel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROCHANNEL/variant.m3u8?version=2
-#EXTINF:-1,FAN HD
+#EXTINF:-1,FAN
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Fashion TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FASHION/variant.m3u8?version=2
-#EXTINF:-1,Food Network HD
+#EXTINF:-1,Food Network
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
-#EXTINF:-1,Fuel TV HD
+#EXTINF:-1,Fuel TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUELHD/variant.m3u8?version=2
-#EXTINF:-1,Galaxy TV HD
+#EXTINF:-1,Galaxy TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8?version=2
-#EXTINF:-1,H2 HD
+#EXTINF:-1,H2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8?version=2&hd
-#EXTINF:-1,History HD
+#EXTINF:-1,History
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
-#EXTINF:-1,ID Investigation Discovery HD
+#EXTINF:-1,ID Investigation Discovery
 http://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8?version=2
 #EXTINF:-1,M-1 Global
 http://zabava-htlive.cdn.ngenix.net/hls/CH_M1GLOBAL/variant.m3u8?version=2
-#EXTINF:-1,Museum HD
+#EXTINF:-1,Museum
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8?version=2&hd
-#EXTINF:-1,myZen.tv HD
+#EXTINF:-1,myZen.tv
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Nano HD
+#EXTINF:-1,Nano
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NANOHD/variant.m3u8?version=2&hd
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1,National Geographic
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8?version=2&hd
-#EXTINF:-1,RTG HD
+#EXTINF:-1,RTG
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8?version=2&hd
-#EXTINF:-1,RTД HD
+#EXTINF:-1,RTД
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8?version=2
 #EXTINF:-1,Shot TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTV/variant.m3u8?version=2
-#EXTINF:-1,Sony Channel HD
+#EXTINF:-1,Sony Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2
 #EXTINF:-1,Sony Sci-Fi
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
 #EXTINF:-1,Sony Turbo
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
-#EXTINF:-1,Spike HD
+#EXTINF:-1,Spike
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Stingray iConcerts HD
+#EXTINF:-1,Stingray iConcerts
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ICONCERTSHD/variant.m3u8?version=2&hd
-#EXTINF:-1,TLC HD
+#EXTINF:-1,TLC
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8?version=2&hd
 #EXTINF:-1,TMTV
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version=2
-#EXTINF:-1,Travel Channel HD
+#EXTINF:-1,Travel Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Travel+ Adventure HD
+#EXTINF:-1,Travel+ Adventure
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
-#EXTINF:-1,UFC HD
+#EXTINF:-1,UFC
 http://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD/bw5000000/variant.m3u8?version=2&hd
-#EXTINF:-1,Viasat Explore HD
+#EXTINF:-1,Viasat Explore
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Viasat History HD
+#EXTINF:-1,Viasat History
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8?version=2
-#EXTINF:-1,Viasat Nature/History HD
+#EXTINF:-1,Viasat Nature/History
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
-#EXTINF:-1,World Fashion Channel HD
+#EXTINF:-1,World Fashion Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Zee TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/variant.m3u8?version=2
 #EXTINF:-1,Zooпарк
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8?version=2
-#EXTINF:-1,АВТО24 HD
+#EXTINF:-1,АВТО24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8?version=2&hd
 #EXTINF:-1,Авто плюс
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8?version=2
@@ -345,13 +345,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8?version=2
 #EXTINF:-1,Вместе-РФ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
-#EXTINF:-1,Всё ТВ HD
+#EXTINF:-1,Всё ТВ
 http://s37630.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8?version=2
-#EXTINF:-1,Диалоги о рыбалке HD
+#EXTINF:-1,Диалоги о рыбалке
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Дикая охота HD
+#EXTINF:-1,Дикая охота
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Дикая рыбалка HD
+#EXTINF:-1,Дикая рыбалка
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Дикий
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKIY/variant.m3u8?version=2
@@ -399,9 +399,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8?version=2
 #EXTINF:-1,Мир сериала
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8?version=2
-#EXTINF:-1,Морской HD
+#EXTINF:-1,Морской
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8?version=2
-#EXTINF:-1,Моторспорт ТВ HD
+#EXTINF:-1,Моторспорт ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MOTORSPORTTVHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Моя планета
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/variant.m3u8?version=2
@@ -421,17 +421,17 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8?version=2
 #EXTINF:-1,О!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8?version=2
-#EXTINF:-1,О2ТВ HD
+#EXTINF:-1,О2ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Оружие
 http://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8?version=2
-#EXTINF:-1,Охотник и рыболов HD
+#EXTINF:-1,Охотник и рыболов
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTNIKIRYBOLOVHD/variant.m3u8?version=2
 #EXTINF:-1,Первый образовательный
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
-#EXTINF:-1,Планета HD
+#EXTINF:-1,Планета
 http://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Победа HD
+#EXTINF:-1,Победа
 http://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Просвещение
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
@@ -455,9 +455,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8?version=2
 #EXTINF:-1,Тверской проспект
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8?version=2
-#EXTINF:-1,Твой Дом HD
+#EXTINF:-1,Твой Дом
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Театр HD
+#EXTINF:-1,Театр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/variant.m3u8?version=2
 #EXTINF:-1,Техно 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/variant.m3u8?version=2
