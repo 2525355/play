@@ -1,82 +1,82 @@
 #EXTM3U
 
 #EXTINF:0,Россия 1
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/30560520b9dacb6e03aae2bc57bd8d78_megogo/vod/fs/o/41139221/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid479895823-b700000.m3u8
 #EXTINF:0,Россия 24
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/c435bfcfb4f6702ec1359a5c4fb9b760_megogo/vod/fs/o/16280261/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid418716257-b700000.m3u8
 #EXTINF:0,Россия К
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/5583db655a9da26465fac11ac227222b_megogo/vod/fs/o/41139281/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid627004374-b700000.m3u8
 #EXTINF:0,НТВ
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/f8a5a91d4e5c0599e6825202d049b01a_megogo/vod/fs/o/41139311/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid418716257-b700000.m3u8
 
 #EXTINF:0,МИР Premium
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/7cb30d763564c992476e35512340ec89_megogo/vod/fs/o/28401691/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid897357304-b700000.m3u8
 
 #EXTINF:0,Звезда
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/a90e6e1d617148ec8b087bae57dd3338_megogo/vod/fs/o/36429631/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid479895823-b700000.m3u8
 
 #EXTINF:0,Рен тв
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/92c2e9e83f8207d93ac98c3b2e8a1804_megogo/vod/fs/o/41139141/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1808461710-b700000.m3u8
 
 #EXTINF:0,СТС
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/f6681bf4f562aec018b39c4bf3316dc6_megogo/vod/fs/o/40256721/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid627004374-b700000.m3u8
 
 #EXTINF:0,ТНТ
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/1ff4118dc0fefcbd3ce5ae5fdf2fc482_megogo/vod/fs/o/40500701/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1808461710-b700000.m3u8
 
 #EXTINF:0,Твц
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/4a6e29aac7d5b460a40586eaff681553_megogo/vod/fs/o/16282451/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1868306772-b700000.m3u8
 
 #EXTINF:0,Пятница
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/5b39f9d7689deb889ec1ee82c2c05328_megogo/vod/fs/o/16283521/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1513780600-b700000.m3u8
 
 #EXTINF:0,5 Канал
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/bd7779421f9ce7a23453cb0fb05987a9_megogo/vod/fs/o/36429601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1868306772-b700000.m3u8
 
 #EXTINF:0,ТВ3
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/ab5c4cbaf3116fa1d26663bed191cf51_megogo/vod/fs/o/59319581/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1702688007-b700000.m3u8
 
 #EXTINF:0,ОТР
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/6702b90d26a9893506c499d0af1d6a58_megogo/vod/fs/o/41139191/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1511929110-b700000.m3u8
 
 
 #EXTINF:0,spike
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/e4f248be21734d3ce8e4b7af56b1480b_megogo/live/hls/u_sid/0/o/58197841/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1403767213-b700000.m3u8
 
 
 #EXTINF:0,Спас
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://vs10.vcdn.biz/681749131f631f4642c713a4f4b40aea_megogo/vod/fs/o/34782371/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1511929110-b700000.m3u8
 
 
 #EXTINF:0,Матч!
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1403767213-b700000.m3u8
 
 
 
 
 #EXTINF:0,Муз тв
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/287625265f52f73a45907aee48abd3df_megogo/vod/fs/o/41139161/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1567058569-b700000.m3u8
 #EXTINF:0,MTVrussia
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/18439d30b89f9e4e8bc317aad198aa23_megogo/live/hls/u_sid/0/o/43022211/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1513780600-b700000.m3u8
 #EXTINF:0,megogolive
-#EXTVLCOPT:http-user-agent=smartlabs
+
 http://meta.vcdn.biz/2796f25265fc52d0844e4279a56d7edf_megogo/live/hls/u_sid/0/o/71731461/u_uid/274753401/u_vod/1/u_device/cms_html5/type.live/chunklist-sid1513780600-b700000.m3u8
