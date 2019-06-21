@@ -13,7 +13,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
 #EXTINF:7 group-title="General",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
-#EXTINF:8 group-title="General",Карусель
+#EXTINF:-1 group-title="General",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
 #EXTINF:9 group-title="General",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
@@ -63,16 +63,26 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/variant.m3u8?versio
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:35 group-title="EN",English Club TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8?version=2
-#EXTINF:36 group-title="EN",NHK World
+#EXTINF:36 group-title="EN",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
+#EXTINF:37 group-title="EN",CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:38 group-title="EN",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:39 group-title="EN",RTE News
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:40 group-title="EN",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:41 group-title="EN",WGN News
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
+#EXTINF:42 group-title="EN",NHK World
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8?version=2
-#EXTINF:37 group-title="EN",TV5Monde
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDE/variant.m3u8?version=2
-#EXTINF:38 group-title="EN",Deutsche Welle
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
-#EXTINF:39 group-title="EN",France 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRANCE24HD/variant.m3u8?version=2&hd
-#EXTINF:2 group-title="ES",Travel TV
+#EXTINF:43 group-title="EN",ESPN
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:1 group-title="ES",Travel TV
 http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:2 group-title="ES",CBN ESPANOL
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_2000_av-b.m3u8
 #EXTINF:3 group-title="ES",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 #EXTINF:4 group-title="ES",13 TV
@@ -83,16 +93,20 @@ http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlslive_1@583029/index_1500_av-b.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8?fluxustv.m3u8
 #EXTINF:7 group-title="ES",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ES",Ibiza Global TV
+#EXTINF:8 group-title="ES",Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
 #EXTINF:-1 group-title="News",Известия
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="News",Евроновости
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
-#EXTINF:-1 group-title="News",360° Новости
-http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8?version=2
 #EXTINF:-1 group-title="News",РБК
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8?version=2
+#EXTINF:-1 group-title="News",360° Новости
+http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8?version=2
+#EXTINF:-1 group-title="News",Евроновости
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:-1 group-title="News",Deutsche Welle
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+#EXTINF:-1 group-title="News",TV5Monde
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDE/variant.m3u8?version=2
 #EXTINF:-1 group-title="Films",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 group-title="Films",Супер
