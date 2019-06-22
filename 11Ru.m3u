@@ -131,8 +131,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2
 #EXTINF:82 group-title="Films",Кинокомедия
 http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2
-#EXTINF:83 group-title="Films",A HBO
-http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:84 group-title="Films",Киномикс
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
 #EXTINF:85 group-title="Films",Кинопремьера
