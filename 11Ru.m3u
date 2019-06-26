@@ -79,6 +79,14 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8?version=2
 #EXTINF:43 group-title="EN",ESPN
 http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:44 group-title="EN",CNBC
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
+#EXTINF:45 group-title="EN",Fox News
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8?fluxustv.m3u8
+#EXTINF:46 group-title="EN",MSNBC
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8?fluxustv.m3u8
+#EXTINF:47 group-title="EN",ABC
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:51 group-title="ES",Travel TV
 http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:52 group-title="ES",CBN ESPANOL
