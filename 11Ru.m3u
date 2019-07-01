@@ -1,519 +1,778 @@
 #EXTM3U
-#EXTINF:1 group-title="General",Первый канал
+#EXTINF:1,Первый канал
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2&hd
-#EXTINF:2 group-title="General",Россия 1
+#EXTINF:2,Россия 1
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
-#EXTINF:3 group-title="General",Матч! ТВ
+#EXTINF:3,Матч! ТВ
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8?version=2
-#EXTINF:4 group-title="General",НТВ
+#EXTINF:4,НТВ
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8?version=2&hd
-#EXTINF:5 group-title="General",Пятый канал
+#EXTINF:5,Пятый канал
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
-#EXTINF:6 group-title="General",Россия К
+#EXTINF:6,Россия К
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
-#EXTINF:7 group-title="General",Россия-24
+#EXTINF:7,Россия-24
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
-#EXTINF:8 group-title="General",Карусель
+#EXTINF:8,Карусель
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
-#EXTINF:9 group-title="General",ОТР
+#EXTINF:9,ОТР
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
-#EXTINF:10 group-title="General",ТВ Центр
+#EXTINF:10,ТВ Центр
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
-#EXTINF:11 group-title="General",СТС
+#EXTINF:11,СТС
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
-#EXTINF:12 group-title="General",РЕН ТВ
+#EXTINF:12,РЕН ТВ
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2&hd
-#EXTINF:13 group-title="General",Домашний
+#EXTINF:13,Домашний
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
-#EXTINF:14 group-title="General",ТВ 3
+#EXTINF:14,ТВ 3
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
-#EXTINF:15 group-title="General",Пятница!
+#EXTINF:15,Пятница!
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
-#EXTINF:16 group-title="General",Звезда
+#EXTINF:16,Звезда
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:17 group-title="General",ТНТ
+#EXTINF:17,ТНТ
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8?version=2&hd
-#EXTINF:18 group-title="General",360°
+#EXTINF:18,360°
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
-#EXTINF:19 group-title="General",Че
+#EXTINF:19,Че
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
-#EXTINF:20 group-title="General",Москва 24
+#EXTINF:20,Москва 24
+#EXTGRP:General
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
-#EXTINF:21 group-title="General",Ю ТВ
+#EXTINF:21,Ю ТВ
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
-#EXTINF:22 group-title="General",Москва Доверие
+#EXTINF:22,Москва Доверие
+#EXTGRP:General
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2
-#EXTINF:23 group-title="General",Fashion TV
+#EXTINF:23,Fashion TV
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FASHION/variant.m3u8?version=2
-#EXTINF:24 group-title="General",World Fashion Channel
+#EXTINF:24,World Fashion Channel
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8?version=2&hd
-#EXTINF:25 group-title="General",Муз ТВ
+#EXTINF:25,Муз ТВ
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
-#EXTINF:26 group-title="General",Моя планета
+#EXTINF:26,Моя планета
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/variant.m3u8?version=2
-#EXTINF:27 group-title="General",Наука
+#EXTINF:27,Наука
+#EXTGRP:General
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/variant.m3u8?version=2
-#EXTINF:31 group-title="EN",RT
+#EXTINF:31,RT
+#EXTGRP:EN
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8?version=2
-#EXTINF:32 group-title="EN",BBC World News
+#EXTINF:32,BBC World News
+#EXTGRP:EN
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/variant.m3u8?version=2
-#EXTINF:33 group-title="EN",CNN International
+#EXTINF:33,CNN International
+#EXTGRP:EN
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/variant.m3u8?version=2
-#EXTINF:34 group-title="EN",Bloomberg
+#EXTINF:34,Bloomberg
+#EXTGRP:EN
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:35 group-title="EN",English Club TV
+#EXTINF:35,English Club TV
+#EXTGRP:EN
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLUBHD/variant.m3u8?version=2
-#EXTINF:36 group-title="EN",CBN NEWS
+#EXTINF:36,CBN NEWS
+#EXTGRP:EN
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
-#EXTINF:37 group-title="EN",CBS NEWS
+#EXTINF:37,CBS NEWS
+#EXTGRP:EN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:39 group-title="EN",France 24
+#EXTINF:39,France 24
+#EXTGRP:EN
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:40 group-title="EN",RTE News
+#EXTINF:40,RTE News
+#EXTGRP:EN
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:41 group-title="EN",Sky News
+#EXTINF:41,Sky News
+#EXTGRP:EN
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:42 group-title="EN",WGN News
+#EXTINF:42,WGN News
+#EXTGRP:EN
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
-#EXTINF:43 group-title="EN",NHK World
+#EXTINF:43,NHK World
+#EXTGRP:EN
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/variant.m3u8?version=2
-#EXTINF:44 group-title="EN",ESPN
+#EXTINF:44,ESPN
+#EXTGRP:EN
 http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:45 group-title="EN",CNBC
+#EXTINF:45,CNBC
+#EXTGRP:EN
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
-#EXTINF:46 group-title="EN",Fox News
+#EXTINF:46,Fox News
+#EXTGRP:EN
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-#EXTINF:47 group-title="EN",MSNBC
+#EXTINF:47,MSNBC
+#EXTGRP:EN
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8?fluxustv.m3u8
-#EXTINF:48 group-title="EN",ABC
+#EXTINF:48,ABC
+#EXTGRP:EN
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:51 group-title="ES",Travel TV
+#EXTINF:51,Travel TV
+#EXTGRP:ES
 http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:52 group-title="ES",CBN ESPANOL
+#EXTINF:52,CBN ESPANOL
+#EXTGRP:ES
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_2000_av-b.m3u8
-#EXTINF:53 group-title="ES",3/24
+#EXTINF:53,3/24
+#EXTGRP:ES
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:54 group-title="ES",13 TV
+#EXTINF:54,13 TV
+#EXTGRP:ES
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-#EXTINF:55 group-title="ES",24 Horas
+#EXTINF:55,24 Horas
+#EXTGRP:ES
 http://hlsliveamdgl8-lh.akamaihd.net:80/i/hlslive_1@583029/index_1500_av-b.m3u8
-#EXTINF:56 group-title="ES",Cuatro
+#EXTINF:56,Cuatro
+#EXTGRP:ES
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8?fluxustv.m3u8
-#EXTINF:57 group-title="ES",mtmad 24h
+#EXTINF:57,mtmad 24h
+#EXTGRP:ES
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv.m3u8
-#EXTINF:58 group-title="ES",Ibiza Global TV
+#EXTINF:58,Ibiza Global TV
+#EXTGRP:ES
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-#EXTINF:61 group-title="News",IZ.RU
+#EXTINF:61,IZ.RU
+#EXTGRP:News
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8?version=2
-#EXTINF:62 group-title="News",РБК-ТВ
+#EXTINF:62,РБК-ТВ
+#EXTGRP:News
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/variant.m3u8?version=2
-#EXTINF:63 group-title="News",360° Новости
+#EXTINF:63,360° Новости
+#EXTGRP:News
 http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8?version=2
-#EXTINF:64 group-title="News",Мир 24
+#EXTINF:64,Мир 24
+#EXTGRP:News
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8?version=2
-#EXTINF:65 group-title="News",Евроновости
+#EXTINF:65,Евроновости
+#EXTGRP:News
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
-#EXTINF:66 group-title="News",Deutsche Welle
+#EXTINF:66,Deutsche Welle
+#EXTGRP:News
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
-#EXTINF:67 group-title="News",TV5Monde
+#EXTINF:67,TV5Monde
+#EXTGRP:News
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDE/variant.m3u8?version=2
-#EXTINF:71 group-title="Films",TV 1000 Action
+#EXTINF:71,TV 1000 Action
+#EXTGRP:Films
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/131/index.m3u8
-#EXTINF:72 group-title="Films",TV 1000 World Kino
+#EXTINF:72,TV 1000 World Kino
+#EXTGRP:Films
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1065/index.m3u8
-#EXTINF:73 group-title="Films",TV 1000
+#EXTINF:73,TV 1000
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2
-#EXTINF:74 group-title="Films",TV 1000 Русское кино
+#EXTINF:74,TV 1000 Русское кино
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2
-#EXTINF:75 group-title="Films",TV XXI
+#EXTINF:75,TV XXI
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8?version=2
-#EXTINF:76 group-title="Films",Дом кино
+#EXTINF:76,Дом кино
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8?version=2
-#EXTINF:77 group-title="Films",Дом кино премиум
+#EXTINF:77,Дом кино премиум
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2&hd
-#EXTINF:78 group-title="Films",Еврокино
+#EXTINF:78,Еврокино
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROKINO/variant.m3u8?version=2
-#EXTINF:79 group-title="Films",Иллюзион+
+#EXTINF:79,Иллюзион+
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
-#EXTINF:80 group-title="Films",Наше Новое Кино
+#EXTINF:80,Наше Новое Кино
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
-#EXTINF:81 group-title="Films",Любимое кино
+#EXTINF:81,Любимое кино
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8?version=2
-#EXTINF:82 group-title="Films",Кино ТВ
+#EXTINF:82,Кино ТВ
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2
-#EXTINF:83 group-title="Films",Кинокомедия
+#EXTINF:83,Кинокомедия
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2
-#EXTINF:84 group-title="Films",Киномикс
+#EXTINF:84,Киномикс
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
-#EXTINF:85 group-title="Films",Кинопремьера
+#EXTINF:85,Кинопремьера
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8?version=2&hd
-#EXTINF:86 group-title="Films",Киносвидание
+#EXTINF:86,Киносвидание
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8?version=2&hd
-#EXTINF:87 group-title="Films",Киносемья
+#EXTINF:87,Киносемья
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8?version=2&hd
-#EXTINF:88 group-title="Films",Кинохит
+#EXTINF:88,Кинохит
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8?version=2&hd
-#EXTINF:89 group-title="Films",Комедия
+#EXTINF:89,Комедия
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
-#EXTINF:90 group-title="Films",О!КИНО
+#EXTINF:90,О!КИНО
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
-#EXTINF:91 group-title="Films",Русский бестселлер
+#EXTINF:91,Русский бестселлер
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
-#EXTINF:92 group-title="Films",Русский детектив
+#EXTINF:92,Русский детектив
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
-#EXTINF:93 group-title="Films",Русский иллюзион
+#EXTINF:93,Русский иллюзион
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
-#EXTINF:94 group-title="Films",Русский роман
+#EXTINF:94,Русский роман
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8?version=2&hd
-#EXTINF:95 group-title="Films",Родное кино
+#EXTINF:95,Родное кино
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
-#EXTINF:96 group-title="Films",Феникс+ кино
+#EXTINF:96,Феникс+ кино
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
-#EXTINF:97 group-title="Films",Amedia Hit
+#EXTINF:97,Amedia Hit
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2&hd
-#EXTINF:98 group-title="Films",Amedia Premium
+#EXTINF:98,Amedia Premium
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2&hd
-#EXTINF:99 group-title="Films",Amedia 1 HD
+#EXTINF:99,Amedia 1 HD
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
-#EXTINF:100 group-title="Films",Amedia 2
+#EXTINF:100,Amedia 2
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2
-#EXTINF:101 group-title="Films",Cinema
+#EXTINF:101,Cinema
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
-#EXTINF:102 group-title="Films",Star Cinema
+#EXTINF:102,Star Cinema
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8?version=2
-#EXTINF:103 group-title="Films",Eurochannel
+#EXTINF:103,Eurochannel
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROCHANNEL/variant.m3u8?version=2
-#EXTINF:104 group-title="Films",FOX
+#EXTINF:104,FOX
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2&hd
-#EXTINF:105 group-title="Films",FOX Life
+#EXTINF:105,FOX Life
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd
-#EXTINF:106 group-title="Films",Sony Channel
+#EXTINF:106,Sony Channel
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2
-#EXTINF:107 group-title="Films",Sony Sci-Fi
+#EXTINF:107,Sony Sci-Fi
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
-#EXTINF:108 group-title="Films",Sony Turbo
+#EXTINF:108,Sony Turbo
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
-#EXTINF:109 group-title="Films",ViP Comedy
+#EXTINF:109,ViP Comedy
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
-#EXTINF:110 group-title="Films",ViP Megahit
+#EXTINF:110,ViP Megahit
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2&hd
-#EXTINF:111 group-title="Films",ViP Premiere
+#EXTINF:111,ViP Premiere
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
-#EXTINF:112 group-title="Films",VIP Serial
+#EXTINF:112,VIP Serial
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
-#EXTINF:113 group-title="Films",Мир сериала
+#EXTINF:113,Мир сериала
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8?version=2
-#EXTINF:114 group-title="Films",Супер
+#EXTINF:114,Супер
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
-#EXTINF:115 group-title="Films",ТНТ4
+#EXTINF:115,ТНТ4
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
-#EXTINF:116 group-title="Films",Мужское кино
+#EXTINF:116,Мужское кино
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
-#EXTINF:117 group-title="Films",Страшное HD
+#EXTINF:117,Страшное HD
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
-#EXTINF:118 group-title="Films",Настоящее страшное ТВ
+#EXTINF:118,Настоящее страшное ТВ
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8?version=2
-#EXTINF:119 group-title="Films",Bolt
+#EXTINF:119,Bolt
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8?version=2&hd
-#EXTINF:120 group-title="Films",Bollywood
+#EXTINF:120,Bollywood
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2&hd
-#EXTINF:121 group-title="Films",Dorama
+#EXTINF:121,Dorama
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8?version=2
-#EXTINF:122 group-title="Films",Shot TV
+#EXTINF:122,Shot TV
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTV/variant.m3u8?version=2
-#EXTINF:123 group-title="Films",Zee TV
+#EXTINF:123,Zee TV
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/variant.m3u8?version=2
-#EXTINF:133 group-title="Music",ТНТ MUSIC
+#EXTINF:133,ТНТ MUSIC
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8?version=2
-#EXTINF:134 group-title="Music",Bridge TV
+#EXTINF:134,Bridge TV
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8?version=2
-#EXTINF:135 group-title="Music",Bridge TV Classic
+#EXTINF:135,Bridge TV Classic
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8?version=2
-#EXTINF:136 group-title="Music",Bridge TV Dance
+#EXTINF:136,Bridge TV Dance
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8?version=2
-#EXTINF:137 group-title="Music",Bridge TV
+#EXTINF:137,Bridge TV
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8?version=2
-#EXTINF:138 group-title="Music",Bridge TV Русский Хит
+#EXTINF:138,Bridge TV Русский Хит
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8?version=2
-#EXTINF:139 group-title="Music",RU.TV
+#EXTINF:139,RU.TV
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8?version=2
-#EXTINF:140 group-title="Music",1 HD
+#EXTINF:140,1 HD
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1HDMUSICTV/variant.m3u8?version=2&hd
-#EXTINF:141 group-title="Music",VH1 Classic
+#EXTINF:141,VH1 Classic
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1CLASSIC/variant.m3u8?version=2
-#EXTINF:142 group-title="Music",VH1 European
+#EXTINF:142,VH1 European
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/variant.m3u8?version=2
-#EXTINF:143 group-title="Music",MTV Dance
+#EXTINF:143,MTV Dance
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVDANCE/variant.m3u8?version=2
-#EXTINF:144 group-title="Music",MTV
+#EXTINF:144,MTV
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8?version=2
-#EXTINF:145 group-title="Music",MTV Hits
+#EXTINF:145,MTV Hits
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHITS/variant.m3u8?version=2
-#EXTINF:146 group-title="Music",MTV Live
+#EXTINF:146,MTV Live
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_MTVLIVEHD/variant.m3u8?version=2&hd
-#EXTINF:147 group-title="Music",MTV Rocks
+#EXTINF:147,MTV Rocks
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVROCKS/variant.m3u8?version=2
-#EXTINF:148 group-title="Music",MTV Russia
+#EXTINF:148,MTV Russia
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MTV/variant.m3u8?version=2
-#EXTINF:149 group-title="Music",Europa Plus TV
+#EXTINF:149,Europa Plus TV
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
-#EXTINF:150 group-title="Music",Clubbing TV
+#EXTINF:150,Clubbing TV
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/variant.m3u8?version=2&hd
-#EXTINF:151 group-title="Music",Music Box Gold
+#EXTINF:151,Music Box Gold
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8?version=2
-#EXTINF:152 group-title="Music",Music Box RU
+#EXTINF:152,Music Box RU
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2
-#EXTINF:153 group-title="Music",MCM Top
+#EXTINF:153,MCM Top
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/variant.m3u8?version=2
-#EXTINF:154 group-title="Music",Mezzo Live
+#EXTINF:154,Mezzo Live
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2&hd
-#EXTINF:155 group-title="Music",О2ТВ
+#EXTINF:155,О2ТВ
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/variant.m3u8?version=2&hd
-#EXTINF:156 group-title="Music",Жара
+#EXTINF:156,Жара
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8?version=2&hd
-#EXTINF:157 group-title="Music",Stingray iConcerts
+#EXTINF:157,Stingray iConcerts
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ICONCERTSHD/variant.m3u8?version=2&hd
-#EXTINF:158 group-title="Music",Ностальгия
+#EXTINF:158,Ностальгия
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8?version=2
-#EXTINF:159 group-title="Music",Шансон ТВ
+#EXTINF:159,Шансон ТВ
+#EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",МУЛЬТ
+#EXTINF:-1,МУЛЬТ
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Рыжий
+#EXTINF:-1,Рыжий
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_GINGER/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Мама
+#EXTINF:-1,Мама
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Boomerang
+#EXTINF:-1,Boomerang
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Мультимузыка
+#EXTINF:-1,Мультимузыка
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STRANA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Тлум
+#EXTINF:-1,Тлум
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Радость моя
+#EXTINF:-1,Радость моя
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Детский мир
+#EXTINF:-1,Детский мир
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Tiji
+#EXTINF:-1,Tiji
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Paramount Channel
+#EXTINF:-1,Paramount Channel
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Kids",Nick Jr.
+#EXTINF:-1,Nick Jr.
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NICKJUNIOR/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Nickelodeon
+#EXTINF:-1,Nickelodeon
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",JimJam
+#EXTINF:-1,JimJam
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JIMJAM/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Gulli Girl
+#EXTINF:-1,Gulli Girl
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_GULLI/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",В Гостях у сказки
+#EXTINF:-1,В Гостях у сказки
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Детский
+#EXTINF:-1,Детский
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",СТС Kids
+#EXTINF:-1,СТС Kids
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Disney Channel
+#EXTINF:-1,Disney Channel
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Cartoon Network
+#EXTINF:-1,Cartoon Network
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Kids",Baby TV
+#EXTINF:-1,Baby TV
+#EXTGRP:Kids
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Sport",Матч Премьер
+#EXTINF:-1,Матч Премьер
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",Матч! Арена
+#EXTINF:-1,Матч! Арена
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",Матч! Игра
+#EXTINF:-1,Матч! Игра
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",Матч! Наш спорт
+#EXTINF:-1,Матч! Наш спорт
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
-#EXTINF:-1 group-title="Sport",Матч! Футбол 1
+#EXTINF:-1,Матч! Футбол 1
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",Матч! Футбол 2
+#EXTINF:-1,Матч! Футбол 2
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Sport",Матч! Футбол 3
+#EXTINF:-1,Матч! Футбол 3
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Sport",Viasat Sport
+#EXTINF:-1,Viasat Sport
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",Футбол
+#EXTINF:-1,Футбол
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",Русский экстрим
+#EXTINF:-1,Русский экстрим
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREAM/variant.m3u8?version=2
-#EXTINF:-1 group-title="Sport",КХЛ
+#EXTINF:-1,КХЛ
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",Eurosport 1
+#EXTINF:-1,Eurosport 1
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Sport",Eurosport Gold
+#EXTINF:-1,Eurosport Gold
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",Extreme Sports
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EXTREMESPORTS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Sport",UFC
+#EXTINF:-1,UFC
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD/bw5000000/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Sport",M-1 Global
+#EXTINF:-1,M-1 Global
+#EXTGRP:Sport
 http://zabava-htlive.cdn.ngenix.net/hls/CH_M1GLOBAL/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Мир
+#EXTINF:-1,Мир
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Мир Premium
+#EXTINF:-1,Мир Premium
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",RTG
+#EXTINF:-1,RTG
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",RT Док
+#EXTINF:-1,RT Док
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Da Vinci Learning
+#EXTINF:-1,Da Vinci Learning
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Animal Planet
+#EXTINF:-1,Animal Planet
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Discovery Channel
+#EXTINF:-1,Discovery Channel
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Discovery Science
+#EXTINF:-1,Discovery Science
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",ID Investigation Discovery
+#EXTINF:-1,ID Investigation Discovery
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",National Geographic HD
+#EXTINF:-1,National Geographic HD
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Nat Geo Wild
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Travel Channel
+#EXTINF:-1,Travel Channel
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Travel+ Adventure
+#EXTINF:-1,Travel+ Adventure
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Viasat Explore
+#EXTINF:-1,Viasat Explore
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Viasat History
+#EXTINF:-1,Viasat History
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Viasat Nature/History HD
+#EXTINF:-1,Viasat Nature/History HD
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",DTX
+#EXTINF:-1,DTX
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",E
+#EXTINF:-1,E
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_E/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",FAN
+#EXTINF:-1,FAN
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Food Network
+#EXTINF:-1,Food Network
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Fuel TV
+#EXTINF:-1,Fuel TV
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FUELHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Galaxy TV
+#EXTINF:-1,Galaxy TV
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",H2
+#EXTINF:-1,H2
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",History
+#EXTINF:-1,History
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Museum
+#EXTINF:-1,Museum
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",myZen.tv
+#EXTINF:-1,myZen.tv
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Nano
+#EXTINF:-1,Nano
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NANOHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Spike
+#EXTINF:-1,Spike
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",TLC
+#EXTINF:-1,TLC
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Zooпарк
+#EXTINF:-1,Zooпарк
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",АВТО24
+#EXTINF:-1,АВТО24
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Авто плюс
+#EXTINF:-1,Авто плюс
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Анекдот ТВ
+#EXTINF:-1,Анекдот ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Бобёр
+#EXTINF:-1,Бобёр
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Вместе-РФ
+#EXTINF:-1,Вместе-РФ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Всё ТВ
+#EXTINF:-1,Всё ТВ
+#EXTGRP:Others
 http://s37630.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Диалоги о рыбалке
+#EXTINF:-1,Диалоги о рыбалке
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Дикая охота
+#EXTINF:-1,Дикая охота
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Дикая рыбалка
+#EXTINF:-1,Дикая рыбалка
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Дикий
+#EXTINF:-1,Дикий
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKIY/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Доктор
+#EXTINF:-1,Доктор
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Драйв
+#EXTINF:-1,Драйв
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Еда
+#EXTINF:-1,Еда
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Еда Премиум
+#EXTINF:-1,Еда Премиум
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Жар Птица
+#EXTINF:-1,Жар Птица
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JARPTIZA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Живая планета
+#EXTINF:-1,Живая планета
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Живи!
+#EXTINF:-1,Живи!
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_JIVI/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Здоровое ТВ
+#EXTINF:-1,Здоровое ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZDOROVOETV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",История
+#EXTINF:-1,История
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",КВН ТВ
+#EXTINF:-1,КВН ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KVN/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Калейдоскоп ТВ
+#EXTINF:-1,Калейдоскоп ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KALEJDOSKOPTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Красная линия
+#EXTINF:-1,Красная линия
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_REDLINE/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Кухня ТВ
+#EXTINF:-1,Кухня ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",ЛДПР ТВ
+#EXTINF:-1,ЛДПР ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Ля минор
+#EXTINF:-1,Ля минор
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Морской
+#EXTINF:-1,Морской
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MORSKOYHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Моторспорт ТВ
+#EXTINF:-1,Моторспорт ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MOTORSPORTTVHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Мужской
+#EXTINF:-1,Мужской
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",О!
+#EXTINF:-1,О!
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Оружие
+#EXTINF:-1,Оружие
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Охотник и рыболов
+#EXTINF:-1,Охотник и рыболов
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTNIKIRYBOLOVHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Первый образовательный
+#EXTINF:-1,Первый образовательный
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERVYJOBRAZOVATELNYJ/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Планета
+#EXTINF:-1,Планета
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Победа
+#EXTINF:-1,Победа
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Просвещение
+#EXTINF:-1,Просвещение
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Пёс и Ко
+#EXTINF:-1,Пёс и Ко
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PESIKO/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Ретро ТВ
+#EXTINF:-1,Ретро ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",СТС Love
+#EXTINF:-1,СТС Love
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Сарафан
+#EXTINF:-1,Сарафан
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Тайна
+#EXTINF:-1,Тайна
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Тверской проспект
+#EXTINF:-1,Тверской проспект
+#EXTGRP:Others
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Твой Дом
+#EXTINF:-1,Твой Дом
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2&hd
-#EXTINF:-1 group-title="Others",Театр
+#EXTINF:-1,Театр
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Техно 24
+#EXTINF:-1,Техно 24
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Тномер
+#EXTINF:-1,Тномер
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNOMER/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Точка ТВ
+#EXTINF:-1,Точка ТВ
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TOCHKATV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Точка отрыва
+#EXTINF:-1,Точка отрыва
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TOCHKAOTRYVA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Усадьба
+#EXTINF:-1,Усадьба
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Центрально телевидение
+#EXTINF:-1,Центрально телевидение
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CENTRALTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",Эхо TV
+#EXTINF:-1,Эхо TV
+#EXTGRP:Others
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Others",ЮТВ
+#EXTINF:-1,ЮТВ
+#EXTGRP:Others
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8?version=2
-#EXTINF:38 group-title="EN",Euronews
+#EXTINF:38,Euronews
+#EXTGRP:EN
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/969/index.m3u8
-#EXTINF:49 group-title="EN",Da Vinci Learning
+#EXTINF:49,Da Vinci Learning
+#EXTGRP:EN
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1033/index.m3u8
-#EXTINF:124 group-title="Films",FilmBox
+#EXTINF:124,FilmBox
+#EXTGRP:Films
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1071/index.m3u8
