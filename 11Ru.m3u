@@ -101,6 +101,9 @@ http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:37,CBS NEWS
 #EXTGRP:EN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:38,Euronews
+#EXTGRP:EN
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/969/index.m3u8
 #EXTINF:39,France 24
 #EXTGRP:EN
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -131,6 +134,9 @@ https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8?fluxustv.m3u8
 #EXTINF:48,ABC
 #EXTGRP:EN
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:49,Da Vinci Learning
+#EXTGRP:EN
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1033/index.m3u8
 #EXTINF:51,Travel TV
 #EXTGRP:ES
 http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
@@ -335,6 +341,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTV/variant.m3u8?version=2
 #EXTINF:123,Zee TV
 #EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/variant.m3u8?version=2
+#EXTINF:124,FilmBox
+#EXTGRP:Films
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1071/index.m3u8
 #EXTINF:133,ТНТ MUSIC
 #EXTGRP:Music
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8?version=2
@@ -767,12 +776,3 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8?version=2
 #EXTINF:-1,ЮТВ
 #EXTGRP:Others
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8?version=2
-#EXTINF:38,Euronews
-#EXTGRP:EN
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/969/index.m3u8
-#EXTINF:49,Da Vinci Learning
-#EXTGRP:EN
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1033/index.m3u8
-#EXTINF:124,FilmBox
-#EXTGRP:Films
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1071/index.m3u8
