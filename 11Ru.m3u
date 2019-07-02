@@ -107,6 +107,8 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8?fluxustv
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv.m3u8
 #EXTINF:58 group-title="ES",Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:59 group-title="ES",Viajar HD
+http://clientportal.stream:8080/zyTYRQufUL/YBZgSIUHnS/26276
 #EXTINF:61 group-title="News",IZ.RU
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8?version=2
 #EXTINF:62 group-title="News",РБК-ТВ
@@ -131,7 +133,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2
 #EXTINF:75 group-title="Films",TV XXI
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8?version=2
-#EXTINF:76 group-title="Films",Дом кино
+#EXTINF:76 group-title="Films",Дом Кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8?version=2
 #EXTINF:77 group-title="Films",Дом кино премиум
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2&hd
@@ -283,6 +285,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ICONCERTSHD/variant.m3u8?version=2&hd
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8?version=2
 #EXTINF:157 group-title="Music",Шансон ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8?version=2
+#EXTINF:158 group-title="Music",Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 #EXTINF:161 group-title="Kids",МУЛЬТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8?version=2
 #EXTINF:162 group-title="Kids",Рыжий
