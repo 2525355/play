@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:1 group-title="General",Первый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2&hd
+http://79.135.71.195:7777
 #EXTINF:2 group-title="General",Россия 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2
+http://vs322.vcdn.biz/30560520b9dacb6e03aae2bc57bd8d78_megogo/vod/fs/o/41139221/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid712180736-b4000000.m3u8
 #EXTINF:3 group-title="General",Матч! ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8?version=2
 #EXTINF:4 group-title="General",НТВ
@@ -24,7 +24,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
 #EXTINF:12 group-title="General",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2&hd
 #EXTINF:13 group-title="General",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
+http://109.70.184.20:8080/udp/239.195.32.10:1234
 #EXTINF:14 group-title="General",ТВ 3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
 #EXTINF:15 group-title="General",Пятница!
@@ -44,7 +44,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
 #EXTINF:22 group-title="General",Москва Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2
 #EXTINF:23 group-title="General",Fashion TV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FASHION/variant.m3u8?version=2
+https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:24 group-title="General",World Fashion Channel
 http://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8?version=2&hd
 #EXTINF:25 group-title="General",Муз ТВ
@@ -128,7 +128,7 @@ http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/131/index.m3u8
 #EXTINF:72 group-title="Films",TV 1000 World Kino
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1065/index.m3u8
 #EXTINF:73 group-title="Films",TV 1000
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000/tv1000.m3u8
 #EXTINF:74 group-title="Films",TV 1000 Русское кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2
 #EXTINF:75 group-title="Films",TV XXI
@@ -140,96 +140,98 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version
 #EXTINF:78 group-title="Films",Еврокино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROKINO/variant.m3u8?version=2
 #EXTINF:79 group-title="Films",Иллюзион+
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
+http://109.171.42.247:81/udp/239.54.6.162:1224
 #EXTINF:80 group-title="Films",Наше Новое Кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
 #EXTINF:81 group-title="Films",Любимое кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8?version=2
-#EXTINF:82 group-title="Films",Кино ТВ
+#EXTINF:82 group-title="Films",Киноменю
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:83 group-title="Films",Кино ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2
-#EXTINF:83 group-title="Films",Кинокомедия
+#EXTINF:84 group-title="Films",Кинокомедия
 http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2
-#EXTINF:84 group-title="Films",Киномикс
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
-#EXTINF:85 group-title="Films",Кинопремьера
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8?version=2&hd
-#EXTINF:86 group-title="Films",Киносвидание
+#EXTINF:85 group-title="Films",Киномикс
+http://86.57.225.245:7015/play/a005
+#EXTINF:86 group-title="Films",Кинопремьера
+http://109.248.236.41:4433/udp/238.1.1.19:1234
+#EXTINF:87 group-title="Films",Киносвидание
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8?version=2&hd
-#EXTINF:87 group-title="Films",Киносемья
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8?version=2&hd
-#EXTINF:88 group-title="Films",Кинохит
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8?version=2&hd
-#EXTINF:89 group-title="Films",Комедия
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
-#EXTINF:90 group-title="Films",О!КИНО
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
-#EXTINF:91 group-title="Films",Русский бестселлер
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
-#EXTINF:92 group-title="Films",Русский детектив
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
-#EXTINF:93 group-title="Films",Русский иллюзион
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
-#EXTINF:94 group-title="Films",Русский роман
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8?version=2&hd
-#EXTINF:95 group-title="Films",Родное кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
-#EXTINF:96 group-title="Films",Феникс+ кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
-#EXTINF:97 group-title="Films",Amedia Hit
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2&hd
-#EXTINF:98 group-title="Films",Amedia Premium
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2&hd
-#EXTINF:99 group-title="Films",Amedia 1 HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2
-#EXTINF:100 group-title="Films",Amedia 2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2
-#EXTINF:101 group-title="Films",Cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8?version=2
-#EXTINF:102 group-title="Films",Star Cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8?version=2
-#EXTINF:103 group-title="Films",Eurochannel
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROCHANNEL/variant.m3u8?version=2
-#EXTINF:104 group-title="Films",FOX
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2&hd
-#EXTINF:105 group-title="Films",FOX Life
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd
-#EXTINF:106 group-title="Films",Sony Channel
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2
-#EXTINF:107 group-title="Films",Sony Sci-Fi
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
-#EXTINF:108 group-title="Films",Sony Turbo
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
-#EXTINF:109 group-title="Films",ViP Comedy
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
-#EXTINF:110 group-title="Films",ViP Megahit
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2&hd
-#EXTINF:111 group-title="Films",ViP Premiere
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2
-#EXTINF:112 group-title="Films",VIP Serial
+#EXTINF:88 group-title="Films",Киносемья
+http://86.57.225.245:7015/play/a00p
+#EXTINF:89 group-title="Films",Кинохит
+http://77.245.98.22:8000/play/321/index.m3u8
+#EXTINF:90 group-title="Films",ViP Comedy
+http://ott-cdn.ucom.am/s97/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:91 group-title="Films",ViP Megahit
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:92 group-title="Films",ViP Premiere
+http://188.35.9.11:2013
+#EXTINF:93 group-title="Films",VIP Serial
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
-#EXTINF:113 group-title="Films",Мир сериала
+#EXTINF:94 group-title="Films",Комедия
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
+#EXTINF:95 group-title="Films",О!КИНО
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
+#EXTINF:96 group-title="Films",Русский бестселлер
+http://178.163.3.80:4022/udp/234.0.0.250:2000
+#EXTINF:97 group-title="Films",Русский детектив
+http://tv.ttk.mx:9051
+#EXTINF:98 group-title="Films",Русский иллюзион
+http://tv.ttk.mx:9027
+#EXTINF:99 group-title="Films",Русский роман
+http://tv.ttk.mx:9042
+#EXTINF:100 group-title="Films",Родное кино
+http://86.57.225.245:7015/play/a00j
+#EXTINF:101 group-title="Films",Феникс+ кино
+http://109.248.236.41:4433/udp/238.1.1.134:1234
+#EXTINF:102 group-title="Films",Amedia Hit
+http://185.35.4.37:8087/amediahit/ch.m3u8
+#EXTINF:103 group-title="Films",Amedia Premium
+http://92.43.140.249/s64/04.m3u8
+#EXTINF:104 group-title="Films",Amedia 1 HD
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:105 group-title="Films",Amedia 2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:106 group-title="Films",Cinema
+http://tv.ttk.mx:9053
+#EXTINF:107 group-title="Films",Star Cinema
+http://kv-3ln-n01.ollcdn.net/hls-tv/22/128147971028ef43d29d88c5490c0005/5ca630d7/starcinemahd/starcinemahd.m3u8
+#EXTINF:108 group-title="Films",Eurochannel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROCHANNEL/variant.m3u8?version=2
+#EXTINF:109 group-title="Films",FOX
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2&hd
+#EXTINF:110 group-title="Films",FOX Life
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd
+#EXTINF:111 group-title="Films",Sony Channel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:112 group-title="Films",Sony Sci-Fi
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:113 group-title="Films",Sony Turbo
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:114 group-title="Films",Мир сериала
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8?version=2
-#EXTINF:114 group-title="Films",Супер
+#EXTINF:115 group-title="Films",Супер
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
-#EXTINF:115 group-title="Films",ТНТ4
+#EXTINF:116 group-title="Films",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
-#EXTINF:116 group-title="Films",Мужское кино
+#EXTINF:117 group-title="Films",Мужское кино
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
-#EXTINF:117 group-title="Films",Страшное HD
+#EXTINF:118 group-title="Films",Страшное HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
-#EXTINF:118 group-title="Films",Настоящее страшное ТВ
+#EXTINF:119 group-title="Films",Настоящее страшное ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8?version=2
-#EXTINF:119 group-title="Films",Bolt
+#EXTINF:120 group-title="Films",Bolt
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8?version=2&hd
-#EXTINF:120 group-title="Films",Bollywood
+#EXTINF:121 group-title="Films",Bollywood
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2&hd
-#EXTINF:121 group-title="Films",Dorama
+#EXTINF:122 group-title="Films",Dorama
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8?version=2
-#EXTINF:122 group-title="Films",Shot TV
+#EXTINF:123 group-title="Films",Shot TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTV/variant.m3u8?version=2
-#EXTINF:123 group-title="Films",Zee TV
+#EXTINF:124 group-title="Films",Zee TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/variant.m3u8?version=2
-#EXTINF:124 group-title="Films",FilmBox
+#EXTINF:125 group-title="Films",FilmBox
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1071/index.m3u8
 #EXTINF:131 group-title="Music",ТНТ MUSIC
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8?version=2
