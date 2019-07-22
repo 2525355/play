@@ -233,6 +233,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTV/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/variant.m3u8?version=2
 #EXTINF:125 group-title="Films",FilmBox
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1071/index.m3u8
+#EXTINF:130,Радио Capital FM [Moscow] (Веб-камера)
+http://www.m24.ru/trans/moscowcity/trans.m3u8
 #EXTINF:131 group-title="Music",ТНТ MUSIC
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8?version=2
 #EXTINF:132 group-title="Music",Bridge TV
