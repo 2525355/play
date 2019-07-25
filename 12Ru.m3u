@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:1 group-title="Films",TV 1000 Action
-http://176.62.191.181:38022/dop20513/tv1000action/index.m3u8
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/131/index.m3u8
 #EXTINF:2 group-title="Films",TV 1000 World Kino
-http://188.35.9.26:5031/udp/112s
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1065/index.m3u8
 #EXTINF:3 group-title="Films",TV 1000
 http://176.62.191.181:38022/dop20513/tv1000/index.m3u8
 #EXTINF:4 group-title="Films",TV 1000 Русское кино
