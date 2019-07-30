@@ -1,111 +1,160 @@
 #EXTM3U
-#EXTINF:1 group-title="Films",TV 1000 Action
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/131/index.m3u8
-#EXTINF:2 group-title="Films",TV 1000 World Kino
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1065/index.m3u8
-#EXTINF:3 group-title="Films",TV 1000
+#EXTINF:1,TV 1000 Action
+#EXTGRP:Films
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:2,TV 1000 World Kino
+#EXTGRP:Films
+http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/1065/index.m3u8
+#EXTINF:3,TV 1000
+#EXTGRP:Films
 http://176.62.191.181:38022/dop20513/tv1000/index.m3u8
-#EXTINF:4 group-title="Films",TV 1000 Русское кино
+#EXTINF:4,TV 1000 Русское кино
+#EXTGRP:Films
 http://176.62.191.181:38022/dop20513/tv1000ru/index.m3u8
-#EXTINF:5 group-title="Films",TV XXI
-http://185.35.4.37:8087/tvxxi/ch.m3u8
-#EXTINF:6 group-title="Films",Дом Кино
-http://193.111.244.25:80/domkino/playlist.m3u8
-#EXTINF:7 group-title="Films",Дом кино премиум
-http://78.29.1.88/live/dom_kino_premium_hd/copy/playlist.m3u8
-#EXTINF:8 group-title="Films",Еврокино
-http://185.35.4.37:8087/evrokino/ch.m3u8
-#EXTINF:9 group-title="Films",Иллюзион+
-http://176.62.191.181:38022/dop20502/illuzionplus/index.m3u8
-#EXTINF:10 group-title="Films",Наше Новое Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
-#EXTINF:11 group-title="Films",Любимое кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8?version=2
-#EXTINF:12 group-title="Films",Киноменю
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:13 group-title="Films",Кино ТВ
-http://176.62.191.181:38022/dop20503/kinohd/index.m3u8
-#EXTINF:14 group-title="Films",Кинокомедия
-http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2
-#EXTINF:15 group-title="Films",Киномикс
-http://86.57.225.245:7015/play/a005
-#EXTINF:16 group-title="Films",Кинопремьера
-http://109.248.236.41:4433/udp/238.1.1.19:1234
-#EXTINF:17 group-title="Films",Киносвидание
-http://193.111.244.25:80/kinosvidanie/playlist.m3u8
-#EXTINF:18 group-title="Films",Киносемья
-http://86.57.225.245:7015/play/a00p
-#EXTINF:19 group-title="Films",Кинохит
-http://77.245.98.22:8000/play/321/index.m3u8
-#EXTINF:20 group-title="Films",ViP Comedy
+#EXTINF:5,ViP Comedy
+#EXTGRP:Films
 http://176.62.191.181:38022/dop20503/tv1000comedy/index.m3u8
-#EXTINF:21 group-title="Films",ViP Megahit
+#EXTINF:6,ViP Megahit
+#EXTGRP:Films
 http://176.62.191.181:38022/dop20503/tv1000megahit/index.m3u8
-#EXTINF:22 group-title="Films",ViP Premiere
+#EXTINF:7,ViP Premiere
+#EXTGRP:Films
 http://176.62.191.181:38022/dop20503/tv1000premium/index.m3u8
-#EXTINF:23 group-title="Films",VIP Serial
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
-#EXTINF:24 group-title="Films",Paramount
-http://176.62.191.181:38022/dop20509/paramount/index.m3u8
-#EXTINF:25 group-title="Films",Комедия
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
-#EXTINF:26 group-title="Films",Комедийное
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:27 group-title="Films",О!КИНО
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
-#EXTINF:28 group-title="Films",Русский бестселлер
-http://178.163.3.80:4022/udp/234.0.0.250:2000
-#EXTINF:29 group-title="Films",Русский детектив
-http://tv.ttk.mx:9051
-#EXTINF:30 group-title="Films",Русский иллюзион
-http://tv.ttk.mx:9027
-#EXTINF:31 group-title="Films",Русский роман
-http://tv.ttk.mx:9042
-#EXTINF:32 group-title="Films",Родное кино
-http://86.57.225.245:7015/play/a00j
-#EXTINF:33 group-title="Films",Феникс+ кино
-http://109.248.236.41:4433/udp/238.1.1.134:1234
-#EXTINF:34 group-title="Films",Amedia Hit
-http://185.35.4.37:8087/amediahit/ch.m3u8
-#EXTINF:35 group-title="Films",Amedia Premium
-http://92.43.140.249/s64/04.m3u8
-#EXTINF:36 group-title="Films",Amedia 1 HD
-http://ott-cdn.ucom.am/s45/04.m3u8
-#EXTINF:37 group-title="Films",Amedia 2
-http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:38 group-title="Films",Cinema
-http://91.244.114.186:808/iptv238
-#EXTINF:39 group-title="Films",Star Cinema
-http://kv-3ln-n01.ollcdn.net/hls-tv/22/128147971028ef43d29d88c5490c0005/5ca630d7/starcinemahd/starcinemahd.m3u8
-#EXTINF:40 group-title="Films",Eurochannel
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROCHANNEL/variant.m3u8?version=2
-#EXTINF:41 group-title="Films",FOX
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2&hd
-#EXTINF:42 group-title="Films",FOX Life
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd
-#EXTINF:43 group-title="Films",Sony Channel
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2
-#EXTINF:44 group-title="Films",Sony Sci-Fi
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
-#EXTINF:45 group-title="Films",Sony Turbo
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
-#EXTINF:46 group-title="Films",Мир сериала
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8?version=2
-#EXTINF:47 group-title="Films",Супер
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
-#EXTINF:48 group-title="Films",ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
-#EXTINF:49 group-title="Films",Мужское кино
+#EXTINF:8,Иллюзион+
+#EXTGRP:Films
+http://176.62.191.181:38022/dop20502/illuzionplus/index.m3u8
+#EXTINF:9,TV XXI
+#EXTGRP:Films
+http://185.35.4.37:8087/tvxxi/ch.m3u8
+#EXTINF:10,Дом Кино
+#EXTGRP:Films
+http://193.111.244.25:80/domkino/playlist.m3u8
+#EXTINF:11,Дом кино премиум
+#EXTGRP:Films
+http://78.29.1.88/live/dom_kino_premium_hd/copy/playlist.m3u8
+#EXTINF:12,Кинопремьера
+#EXTGRP:Films
+http://109.248.236.41:4433/udp/238.1.1.19:1234
+#EXTINF:13,Кинохит
+#EXTGRP:Films
+http://77.245.98.22:8000/play/321/index.m3u8
+#EXTINF:14,Киномикс
+#EXTGRP:Films
+http://86.57.225.245:7015/play/a005
+#EXTINF:15,Кинокомедия
+#EXTGRP:Films
+http://91.190.178.139:81/udp/239.195.5.8:1234
+#EXTINF:16,Киносемья
+#EXTGRP:Films
+http://86.57.225.245:7015/play/a00p
+#EXTINF:17,Мужское кино
+#EXTGRP:Films
 http://86.57.225.245:7015/play/a00r
-#EXTINF:50 group-title="Films",Страшное HD
+#EXTINF:18,Наше Новое Кино
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
+#EXTINF:19,Родное кино
+#EXTGRP:Films
+http://86.57.225.245:7015/play/a00j
+#EXTINF:20,Еврокино
+#EXTGRP:Films
+http://185.35.4.37:8087/evrokino/ch.m3u8
+#EXTINF:21,Киноменю
+#EXTGRP:Films
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:22,Киносвидание
+#EXTGRP:Films
+http://91.190.178.139:81/udp/239.195.6.13:1234
+#EXTINF:23,Кино ТВ
+#EXTGRP:Films
+http://176.62.191.181:38022/dop20503/kinohd/index.m3u8
+#EXTINF:24,Любимое кино
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8?version=2
+#EXTINF:25,Paramount
+#EXTGRP:Films
+http://176.62.191.181:38022/dop20509/paramount/index.m3u8
+#EXTINF:26,Комедия
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
+#EXTINF:27,Комедийное
+#EXTGRP:Films
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:28,О!КИНО
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
+#EXTINF:29,Остросюжетное
+#EXTGRP:Films
+http://188.35.9.11:2015
+#EXTINF:30,Классика кино
+#EXTGRP:Films
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:31,Русский бестселлер
+#EXTGRP:Films
+http://182.73.122.74:10005/bysid/420
+#EXTINF:32,Русский детектив
+#EXTGRP:Films
+http://tv.ttk.mx:9051
+#EXTINF:33,Русский иллюзион
+#EXTGRP:Films
+http://tv.ttk.mx:9027
+#EXTINF:34,Русский роман
+#EXTGRP:Films
+http://182.73.122.74:10005/bysid/415
+#EXTINF:35,Феникс+ кино
+#EXTGRP:Films
+http://109.248.236.41:4433/udp/238.1.1.134:1234
+#EXTINF:36,Amedia Hit
+#EXTGRP:Films
+http://185.35.4.37:8087/amediahit/ch.m3u8
+#EXTINF:37,Amedia Premium
+#EXTGRP:Films
+http://92.43.140.249/s64/04.m3u8
+#EXTINF:38,Amedia 1 HD
+#EXTGRP:Films
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:39,Amedia 2
+#EXTGRP:Films
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:40,Cinema
+#EXTGRP:Films
+http://91.244.114.186:808/iptv238
+#EXTINF:41,Star Cinema
+#EXTGRP:Films
+http://kv-3ln-n01.ollcdn.net/hls-tv/22/128147971028ef43d29d88c5490c0005/5ca630d7/starcinemahd/starcinemahd.m3u8
+#EXTINF:42,Eurochannel
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROCHANNEL/variant.m3u8?version=2
+#EXTINF:43,FOX
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2&hd
+#EXTINF:44,FOX Life
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd
+#EXTINF:45,Sony Channel
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2
+#EXTINF:46,Sony Sci-Fi
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:47,Sony Turbo
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
+#EXTINF:48,Мир сериала
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8?version=2
+#EXTINF:49,Супер
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
+#EXTINF:50,ТНТ4
+#EXTGRP:Films
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
+#EXTINF:51,Страшное HD
+#EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8?version=2
-#EXTINF:51 group-title="Films",Настоящее страшное ТВ
+#EXTINF:52,Настоящее страшное ТВ
+#EXTGRP:Films
 http://176.62.191.181:38022/dop20511/nst/index.m3u8
-#EXTINF:52 group-title="Films",Bolt
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8?version=2&hd
-#EXTINF:53 group-title="Films",Dorama
-http://ott-cdn.ucom.am/s95/04.m3u8
-#EXTINF:54 group-title="Films",Shot TV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTV/variant.m3u8?version=2
-#EXTINF:55 group-title="Films",FilmBox
+#EXTINF:53,FilmBox
+#EXTGRP:Films
 http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1071/index.m3u8
