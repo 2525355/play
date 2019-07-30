@@ -20,7 +20,7 @@ http://176.62.191.181:38022/dop20503/tv1000megahit/index.m3u8
 #EXTINF:7,ViP Premiere
 #EXTGRP:Films
 http://176.62.191.181:38022/dop20503/tv1000premium/index.m3u8
-#EXTINF:8,Иллюзион+
+#EXTINF:8,Иллюзион +
 #EXTGRP:Films
 http://176.62.191.181:38022/dop20502/illuzionplus/index.m3u8
 #EXTINF:9,TV XXI
