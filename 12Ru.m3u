@@ -4,7 +4,7 @@
 http://ott-cdn.ucom.am/s91/04.m3u8
 #EXTINF:2,TV 1000 World Kino
 #EXTGRP:Films
-http://fghtyj34554iu.iptvbot.biz/iptv/67GP8CPGFYPHNC/1065/index.m3u8
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/1065/index.m3u8
 #EXTINF:3,TV 1000
 #EXTGRP:Films
 http://176.62.191.181:38022/dop20513/tv1000/index.m3u8
@@ -26,6 +26,8 @@ http://176.62.191.181:38022/dop20502/illuzionplus/index.m3u8
 #EXTINF:9,TV XXI
 #EXTGRP:Films
 http://185.35.4.37:8087/tvxxi/ch.m3u8
+#EXTINF:29,Остросюжетное
+#EXTGRP:Films
 #EXTINF:10,Дом Кино
 #EXTGRP:Films
 http://193.111.244.25:80/domkino/playlist.m3u8
@@ -83,9 +85,13 @@ http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 #EXTINF:28,О!КИНО
 #EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
-#EXTINF:29,Остросюжетное
-#EXTGRP:Films
 http://188.35.9.11:2015
+#EXTINF:40,Cinema
+#EXTGRP:Films
+http://109.248.236.41:4433/udp/238.1.1.125:1234
+#EXTINF:41,Star Cinema
+#EXTGRP:Films
+http://kv-3ln-n01.ollcdn.net/hls-tv/22/128147971028ef43d29d88c5490c0005/5ca630d7/starcinemahd/starcinemahd.m3u8
 #EXTINF:30,Классика кино
 #EXTGRP:Films
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
@@ -116,12 +122,6 @@ http://ott-cdn.ucom.am/s45/04.m3u8
 #EXTINF:39,Amedia 2
 #EXTGRP:Films
 http://ott-cdn.ucom.am/s33/index.m3u8
-#EXTINF:40,Cinema
-#EXTGRP:Films
-http://91.244.114.186:808/iptv238
-#EXTINF:41,Star Cinema
-#EXTGRP:Films
-http://kv-3ln-n01.ollcdn.net/hls-tv/22/128147971028ef43d29d88c5490c0005/5ca630d7/starcinemahd/starcinemahd.m3u8
 #EXTINF:42,Eurochannel
 #EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROCHANNEL/variant.m3u8?version=2
