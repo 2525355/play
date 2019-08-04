@@ -28,6 +28,7 @@ http://176.62.191.181:38022/dop20502/illuzionplus/index.m3u8
 http://185.35.4.37:8087/tvxxi/ch.m3u8
 #EXTINF:29,Остросюжетное
 #EXTGRP:Films
+http://188.35.9.11:2015
 #EXTINF:10,Дом Кино
 #EXTGRP:Films
 http://193.111.244.25:80/domkino/playlist.m3u8
@@ -85,7 +86,6 @@ http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 #EXTINF:28,О!КИНО
 #EXTGRP:Films
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OKINO/variant.m3u8?version=2
-http://188.35.9.11:2015
 #EXTINF:40,Cinema
 #EXTGRP:Films
 http://109.248.236.41:4433/udp/238.1.1.125:1234
